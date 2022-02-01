@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_4_6</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Renata\OneDrive\Рабочий стол\Шамсутдинова Рената. Вариант 1.cs" Link="Шамсутдинова Рената. Вариант 1.cs" />
+  </ItemGroup>
+
+</Project>
